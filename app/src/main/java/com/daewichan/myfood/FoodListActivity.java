@@ -12,7 +12,6 @@ import com.daewichan.myfood.data.FeatureResponse;
 import com.daewichan.myfood.data.FeatureVO;
 import com.daewichan.myfood.data.remote.ApiService;
 import com.daewichan.myfood.data.remote.AppUtility;
-import com.daewichan.myfood.data.request.FeatureRequest;
 import com.daewichan.myfood.delegate.FoodItemDelegate;
 
 import java.util.ArrayList;
