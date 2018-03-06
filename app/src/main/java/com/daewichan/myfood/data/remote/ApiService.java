@@ -1,10 +1,8 @@
 package com.daewichan.myfood.data.remote;
 
 import com.daewichan.myfood.data.FeatureResponse;
-import com.daewichan.myfood.data.request.FeatureRequest;
 
 import retrofit2.Call;
-import retrofit2.http.Body;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.POST;

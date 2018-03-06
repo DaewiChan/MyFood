@@ -11,7 +11,6 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.daewichan.myfood.R;
 import com.daewichan.myfood.data.FeatureVO;
-import com.daewichan.myfood.data.request.FeatureRequest;
 import com.daewichan.myfood.delegate.FoodItemDelegate;
 
 import java.util.ArrayList;
